@@ -25,3 +25,6 @@ end
 
 binding.pry
 ""
+
+#active record at a glance
+
